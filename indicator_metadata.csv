@@ -1,0 +1,44 @@
+indicator_code,indicator_name,category,unit,description
+SP.POP.TOTL,"Population, total",Demographics,count,"Population, total (Demographics)"
+SP.POP.GROW,Population growth (annual %),Demographics,%,Population growth (annual %) (Demographics)
+SP.URB.TOTL.IN.ZS,Urban population (% of total),Demographics,%,Urban population (% of total) (Demographics)
+SP.DYN.LE00.IN,"Life expectancy at birth, total",Demographics,years,"Life expectancy at birth, total (Demographics)"
+SP.DYN.LE00.MA.IN,"Life expectancy, male",Demographics,years,"Life expectancy, male (Demographics)"
+SP.DYN.LE00.FE.IN,"Life expectancy, female",Demographics,years,"Life expectancy, female (Demographics)"
+SP.DYN.CDRT.IN,"Death rate, crude (per 1,000)",Demographics,"per 1,000","Death rate, crude (per 1,000) (Demographics)"
+SP.DYN.CBRT.IN,"Birth rate, crude (per 1,000)",Demographics,"per 1,000","Birth rate, crude (per 1,000) (Demographics)"
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health Spending,% of GDP,Current health expenditure (% of GDP) (Health Spending)
+SH.XPD.CHEX.PC.CD,Current health expenditure per capita (USD),Health Spending,USD,Current health expenditure per capita (USD) (Health Spending)
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",Healthcare Workforce,"per 1,000","Physicians (per 1,000 people) (Healthcare Workforce)"
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",Healthcare Infrastructure,"per 1,000","Hospital beds (per 1,000 people) (Healthcare Infrastructure)"
+SH.MED.NUMW.P3,"Nurses and midwives (per 1,000)",Healthcare Workforce,"per 1,000","Nurses and midwives (per 1,000) (Healthcare Workforce)"
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",Mortality,"per 1,000","Mortality rate, under-5 (per 1,000 live births) (Mortality)"
+SH.DYN.NMRT,"Neonatal mortality rate (per 1,000)",Mortality,"per 1,000","Neonatal mortality rate (per 1,000) (Mortality)"
+SH.STA.MMRT,"Maternal mortality ratio (per 100,000 live births)",Mortality,"per 100,000","Maternal mortality ratio (per 100,000 live births) (Mortality)"
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000)",Disease Burden,"per 100,000","Incidence of tuberculosis (per 100,000) (Disease Burden)"
+SH.HIV.INCD.TL.P3,"Incidence of HIV (per 1,000 uninfected)",Disease Burden,"per 1,000","Incidence of HIV (per 1,000 uninfected) (Disease Burden)"
+SH.DTH.COMM.ZS,"Cause of death, communicable diseases (% of total)",Disease Burden,%,"Cause of death, communicable diseases (% of total) (Disease Burden)"
+SH.DTH.NCOM.ZS,"Cause of death, non-communicable diseases (% of total)",Disease Burden,%,"Cause of death, non-communicable diseases (% of total) (Disease Burden)"
+SH.PRV.SMOK.MA,"Smoking prevalence, males (%)",Risk Factors,%,"Smoking prevalence, males (%) (Risk Factors)"
+SH.PRV.SMOK.FE,"Smoking prevalence, females (%)",Risk Factors,%,"Smoking prevalence, females (%) (Risk Factors)"
+SH.STA.OB18.ZS,"Prevalence of obesity, adults (BMI >= 30)",Risk Factors,%,"Prevalence of obesity, adults (BMI >= 30) (Risk Factors)"
+SH.ALC.PCAP.LI,Alcohol consumption per capita (liters),Risk Factors,liters,Alcohol consumption per capita (liters) (Risk Factors)
+SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20-79),Risk Factors,%,Diabetes prevalence (% of population ages 20-79) (Risk Factors)
+SH.H2O.SMDW.ZS,Access to safe drinking water (%),WASH,%,Access to safe drinking water (%) (WASH)
+SH.STA.SMSS.ZS,Access to sanitation (%),WASH,%,Access to sanitation (%) (WASH)
+SH.STA.HYGN.ZS,Handwashing facility access (%),WASH,%,Handwashing facility access (%) (WASH)
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",Immunization,%,"Immunization, measles (% of children ages 12-23 months) (Immunization)"
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",Immunization,%,"Immunization, DPT (% of children ages 12-23 months) (Immunization)"
+SH.IMM.IBCG,"Immunization, BCG (%)",Immunization,%,"Immunization, BCG (%) (Immunization)"
+SH.IMM.POL3,"Immunization, Polio 3 (%)",Immunization,%,"Immunization, Polio 3 (%) (Immunization)"
+SH.IMM.HIB3,"Immunization, Haemophilus influenzae type b 3 (%)",Immunization,%,"Immunization, Haemophilus influenzae type b 3 (%) (Immunization)"
+SH.STA.STNT.ZS,Stunting prevalence (% of children under 5),Nutrition,%,Stunting prevalence (% of children under 5) (Nutrition)
+SH.STA.WAST.ZS,Wasting prevalence (% of children under 5),Nutrition,%,Wasting prevalence (% of children under 5) (Nutrition)
+SH.STA.OWGH.ZS,Overweight prevalence (children under 5),Nutrition,%,Overweight prevalence (children under 5) (Nutrition)
+SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),Nutrition,%,Prevalence of undernourishment (% of population) (Nutrition)
+SP.DYN.TFRT.IN,Fertility rate (births per woman),Reproductive Health,births per woman,Fertility rate (births per woman) (Reproductive Health)
+SP.ADO.TFRT,"Adolescent fertility rate (per 1,000 women ages 15-19)",Reproductive Health,"per 1,000","Adolescent fertility rate (per 1,000 women ages 15-19) (Reproductive Health)"
+SH.STA.ANVC.ZS,Pregnant women receiving prenatal care (%),Reproductive Health,%,Pregnant women receiving prenatal care (%) (Reproductive Health)
+NY.GDP.PCAP.CD,GDP per capita (current USD),Economic,USD,GDP per capita (current USD) (Economic)
+NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (constant 2017 intl $)",Economic,USD,"GDP per capita, PPP (constant 2017 intl $) (Economic)"
+SI.POV.DDAY,Poverty headcount ratio ($2.15/day),Economic,%,Poverty headcount ratio ($2.15/day) (Economic)
